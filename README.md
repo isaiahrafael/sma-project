@@ -86,6 +86,6 @@ Mapped results to JaamSim input format:
 ---
 
 ## 👨‍💻 Author
-Prepared by [Your Name]  
-For Capstone / Simulation Modeling Project – Engineering Systems
+Prepared by Isaiah 
+For Simulation Modeling Analysis Project – Engineering Systems & Design
 
