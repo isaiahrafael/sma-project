@@ -1,0 +1,2 @@
+# sma-project
+Dereks Paints
